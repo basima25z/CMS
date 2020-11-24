@@ -1,0 +1,46 @@
+<!--Create form-->
+<!--container centers-->
+
+<div class = "container">
+    <h1> Edit Posts</h1>
+    <!--padding of 4 all across with helper bootstrap classes-->
+    <div class = "row p-4">
+        <!--column that expands 10 blocks, stacks on top of each other on smaller screens-->
+        <div class = "col-md-10">
+            <form action = "/admin/posts/edit/{{post.id}}?newMethod=PUT" method = "post">
+                <div class = "form-group">
+                    <label for="title">Title</label>
+                    <input type = "text" class=" form-control" name ="title" id = "title" placeholder="Enter the Title" value ={{post.title}}>
+                </div>
+                <!--status = public or private posts-->
+                <div class = "form-group">
+                    <label for="status">Status</label>
+                    <select name = "status" id ="status">
+                        <option value ="public">Public</option>
+                        <option value ="private">Private</option>
+                        <option value ="draft">Draft</option>
+                    </select>
+                </div>
+
+                <!--check box allowing comments-->
+                <div class = "form-check ml-3">
+                    <label for = "allowComments">
+                        <input type = "checkbox" class = "form-check-input" id="allowComments" name="allowComments">
+                        Allow Comments
+                    </label>
+                </div>
+
+                <!--to display content, once you submit the form data will be fetched using name attribue-->
+                <div class = "form-group">
+                    <label for = "description">Content</label>
+                    <textarea name="description" id = "description" class="form-control" placeholder="Enter your Content Here" rows="10">{{post.description}}
+                    </textarea>
+                </div>
+
+                <button class="btn btn-outline-success btn-lg" type="submit">Create Post</button>
+
+
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+<!--shows admin table for all posts-->
+<div class="container">
+    <div class = "alert alert-secondary text-center">
+        <h1>ALL POSTS</h1>
+    </div>
+
+    <table class="table table-bordered">
+        <thead class="bg-dark text-center">
+        <tr class="text-white">
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Status</th>
+            <th>Comments Allowed</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody class ="text-center">
+        <!-- loop through each post and create different rows-->
+
+        {{#each posts}}
+        <tr>
+            <td>{{_id}}</td>
+            <td>{{title}}</td>
+            <td>{{description}}</td>
+            <td>{{status}}</td>
+            <td>{{allowComments}}</td>
+            <td>{{category.title}}</td>
+            <td class = "d-flex">
+                <!--ID gets you the post you'd like to edit-->
+                <a href="/admin/posts/edit/{{_id}}" class = "btn btn-sm btn-warning mr-2">Edit Posts</a>
+                <form action="/admin/posts/delete/{{_id}}?newMethod=DELETE" method ="post"> <!--Sent to delete method instead of post-->
+                    <button class="btn btn-sm btn-danger" type="submit">Delete Post</button>
+                </form>
+            </td>
+        </tr>
+        {{/each}}
+        </tbody>
+    </table>
+</div>

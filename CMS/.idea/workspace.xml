@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db1731cb-5d2e-4a0a-b052-872e07be61ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikPIdEkTZMBqgtukEnXJUnWagt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads/BootStrap templates/BLOG-HOME/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/vendor" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/vendor/jquery" />
+      <recent name="$PROJECT_DIR$/public/vendor/bootstrap/js" />
+      <recent name="$PROJECT_DIR$/public/vendor/bootstrap/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db1731cb-5d2e-4a0a-b052-872e07be61ca" name="Default Changelist" comment="" />
+      <created>1602448539577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602448539577</updated>
+      <workItem from="1602448541146" duration="19383000" />
+      <workItem from="1602527910135" duration="7000" />
+      <workItem from="1602528734262" duration="50000" />
+      <workItem from="1602529061260" duration="245000" />
+      <workItem from="1602529781191" duration="157000" />
+      <workItem from="1602529991574" duration="80000" />
+      <workItem from="1602544158234" duration="15789000" />
+      <workItem from="1602612766477" duration="20697000" />
+      <workItem from="1602707088292" duration="21537000" />
+      <workItem from="1602736637198" duration="33240000" />
+      <workItem from="1603053121278" duration="1404000" />
+      <workItem from="1603730808807" duration="53000" />
+      <workItem from="1604809839615" duration="4840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602731128428">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="537" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1602731128428" />
+    <state x="519" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602555249113">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="519" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1602555249113" />
+    <state x="540" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602467073575">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="540" y="298" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1602467073575" />
+    <state x="443" y="56" key="SettingsEditor" timestamp="1602784237184">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="443" y="56" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602784237184" />
+    <state x="491" y="78" width="598" height="735" key="find.popup" timestamp="1602467066140">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="491" y="78" width="598" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1602467066140" />
+    <state x="590" y="280" key="scopes" timestamp="1602465352537">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="590" y="280" key="scopes/0.23.1440.877@0.23.1440.877" timestamp="1602465352537" />
+    <state x="744" y="198" width="670" height="676" key="search.everywhere.popup" timestamp="1602787303507">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="744" y="198" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1602787303507" />
+  </component>
+</project>
